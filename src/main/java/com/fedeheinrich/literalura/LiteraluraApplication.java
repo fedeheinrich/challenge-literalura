@@ -1,6 +1,6 @@
 package com.fedeheinrich.literalura;
 
-import com.fedeheinrich.literalura.controllers.Principal;
+import com.fedeheinrich.literalura.principal.Principal;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
